@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# But not files ending with .cpp or .js
+!*.cpp
+!*.js
+!*.md
